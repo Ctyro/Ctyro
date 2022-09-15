@@ -8,4 +8,4 @@
 Ctyro/Ctyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Start from scratch, a beginner little white wants to become an Internet bull
+Start from scratch, a beginner little white wants to become an Internet bull😶
